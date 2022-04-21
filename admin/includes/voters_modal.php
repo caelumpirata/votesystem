@@ -9,6 +9,9 @@
             </div>
             <div class="modal-body">
               <form class="form-horizontal" method="POST" action="voters_add.php" enctype="multipart/form-data">
+
+
+
                 <div class="form-group">
                     <label for="firstname" class="col-sm-3 control-label">Firstname</label>
 
@@ -16,6 +19,9 @@
                       <input type="text" class="form-control" id="firstname" name="firstname" required>
                     </div>
                 </div>
+
+
+                
                 <div class="form-group">
                     <label for="lastname" class="col-sm-3 control-label">Lastname</label>
 
