@@ -1,5 +1,5 @@
 # votesystem
 voting system created using PHp
 
-author: Akash Singh
-      : Satyam Pandey
+author: Satyam Pandey
+      : Akash Singh
